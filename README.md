@@ -5,5 +5,8 @@ This is a Linux terminal use program.
 Windows coming soon..
 
 Python2.7 + compatible.
-Use python macchanger.py --help    in the linux terminal to display syntax.
+Use: 
+>python macchanger.py --help    
+
+in the linux terminal to display syntax.
 This will change your MAC adress to an adress of your choice.
